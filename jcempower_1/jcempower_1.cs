@@ -58,7 +58,8 @@ namespace jcempower_1
 	using Skyline.DataMiner.Automation;
 	
 	/// <summary>
-	/// Represents a DataMiner Automation script.
+	/// Represents a DataMiner Automation script. changes test
+	/// hello
 	/// </summary>
 	public class Script
 	{
